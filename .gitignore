@@ -2,3 +2,5 @@
 src/__pycache__
 .data
 .book
+config.bat
+node_modules
